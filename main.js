@@ -88,5 +88,4 @@ client.on('messageCreate', messageCreate => {
 
 
 // Connection to Discord profile
-//client.login(process.env.DiscordToken);
-client.login('OTExODI2NTI1MjI0MDY3MTAy.YZnCoA.Xmcl5IAgb38nRPsjke3TBV2MVVE');
+client.login(process.env.DiscordToken);
